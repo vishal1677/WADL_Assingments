@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": "2"
+    },
+    {
+      "id": "1683",
+      "fullName": "Vishal Sharad Patil",
+      "email": "vishalpatil122004sharad@gmail.com",
+      "password": "4fztrYu84T$4NwQ"
+    },
+    {
+      "id": "2dc3",
+      "fullName": "Vishal Sharad Patil",
+      "email": "vishalpatil122004sharad@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4165",
+      "fullName": "Vishal Sharad Patil",
+      "email": "vishalpatil122004sharad@gmail.com",
+      "password": "vishal123"
+    },
+    {
+      "id": "9065",
+      "fullName": "Vishal Sharad Patil",
+      "email": "vishalpatil122004sharad@gmail.com",
+      "password": "vishal123"
+    },
+    {
+      "id": "8bd6",
+      "fullName": "VP",
+      "email": "testuser@gmail.com",
+      "password": "123"
+    }
+  ]
+}
